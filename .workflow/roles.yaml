@@ -1,0 +1,8 @@
+# Role holders (Q-L6-2). Read by the bridge from the default branch only.
+# Values are GitHub logins. Sponsor has no gate input. Changes are critical PRs.
+direction:
+  - adhemukhlis
+approval:
+  - adhemukhlis
+operation:
+  - adhemukhlis
